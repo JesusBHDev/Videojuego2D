@@ -1,0 +1,29 @@
+# --- Unity core folders ---
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+
+# --- Visual Studio ---
+.vs/
+
+# --- Sistema operativo ---
+.DS_Store
+Thumbs.db
+
+# --- Archivos generados automáticamente ---
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.pdb
+*.apk
+*.aab
+*.exe
+*.dll
+*.tmp
+*.bak
+*.old
+*.orig
+*.log
